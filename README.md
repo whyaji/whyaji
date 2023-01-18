@@ -10,21 +10,19 @@ Hello, I'm an android developer and Bachelor of Computer Science student at Univ
 
 </p>
 
-### Backend Developments :
-
-![](https://img.shields.io/badge/Framework-ExpressJS-informational?style=flat&logo=express)
-<!-- ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django) -->
-
 ### Programming Languages :
 
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python)
 
 ## Databases :open_file_folder:
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb)
-![](https://img.shields.io/badge/Database-MariaDB-informational?style=flat&logo=mariadb)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase)
 
 ### Other Tools :briefcase:
 
 ![](https://img.shields.io/badge/OS-Arcolinux-informational?style=flat&logo=linux)
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code)
+![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android-studio)
