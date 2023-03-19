@@ -1,6 +1,6 @@
 ## Wahyu Patriaji
 
-I'm an android developer and Bachelor of Computer Science student at University of Muhammadiyah Malang, currently in semester 6
+I'm an android developer and Bachelor of Computer Science student at University of Muhammadiyah Malang, currently in semester 6, Bangkit 2023 cohort
 
 ### Contact me! :mailbox:
 
