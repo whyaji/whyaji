@@ -5,7 +5,7 @@ I'm an android developer and Bachelor of Computer Science student at University 
 ### Contact me! :mailbox:
 
 [![Mail Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wahyu.patriaji/)
-[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyu-patriaji-608b9b118)
+[![Linked In](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahyupatriaji)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahyupatriaji@gmail.com)
 
 </p>
