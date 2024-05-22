@@ -1,6 +1,6 @@
 ## Wahyu Patriaji
 
-I'm an Mobile Developer and Bachelor of Computer Science student at University of Muhammadiyah Malang, currently in semester 7, Mobile Developer Intern at Sekawan Media, Bangkit 2023 cohort
+I'm an Mobile Developer and Bachelor of Computer Science student at University of Muhammadiyah Malang, currently in semester 8, Mobile Developer at Sekawan Media, Bangkit 2023 cohort
 
 ### Contact me :
 
